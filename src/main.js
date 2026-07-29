@@ -129,8 +129,7 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
       });
     }
   });
-  });
-}); 
+});
 
 // --- SCROLL TO TOP BUTTON ---
 const scrollToTopBtn = document.getElementById('scrollToTop');
