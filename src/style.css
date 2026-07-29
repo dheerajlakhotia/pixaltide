@@ -237,7 +237,7 @@ h1, h2, h3, h4, h5 {
 }
 
 .glow-orb {
-  position: absolute;
+  position: fixed;
   border-radius: 50%;
   filter: blur(100px);
   z-index: -1;
