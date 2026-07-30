@@ -675,7 +675,7 @@ h1, h2, h3, h4, h5 {
   align-items: center;
   cursor: pointer;
 }
-.accordion-header h4 {
+.accordion-header h3 {
   font-size: 1.25rem;
   font-weight: 500;
   margin: 0;
@@ -728,7 +728,7 @@ h1, h2, h3, h4, h5 {
   gap: 4rem;
   margin-bottom: 4rem;
 }
-.footer h4 {
+.footer h3 {
   font-family: var(--font-display);
   font-size: 1.25rem;
   margin-bottom: 1.5rem;
